@@ -17,7 +17,7 @@ This application allows users to manage their daily tasks through a simple inter
 
 ### 1. Fork This Repository
 
-Click **Fork** at the top-right corner of this GitHub repository to create your own copy.
+Click __Fork__ at the top-right corner of this GitHub repository to create your own copy.
 
 ### 2. Set Up Bitrise
 
